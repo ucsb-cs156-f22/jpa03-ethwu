@@ -1,4 +1,4 @@
-# Setting up GitHub Actions
+    # Setting up GitHub Actions
 
 To setup GitHub Actions so that the tests pass, you will need to configure
 a few *secrets* on the GitHub repo settings page.
