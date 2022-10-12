@@ -1,4 +1,5 @@
 # demo-spring-react-example-v2: dsre-v2
+[![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-ethwu/branch/main/graph/badge.svg?token=MM88CJWSAN)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-ethwu)
 
 Storybook is here:
 * Production: <https://ucsb-cs156-f22.github.io/jpa03-ethwu-docs/>
